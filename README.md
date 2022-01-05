@@ -2,7 +2,7 @@
 
 -I predominantly use genomics to understand the evolution and maintainence of biodiversity  
 -I have worked on a variety of organisms including: 🦈 🦠 🍄 🌴 🐟  
--Amongst other things I currently work on the evolution of supergenes in 🦋  
+-Among other things I currently work on the evolution of supergenes in 🦋  
 
 To find out more about me and my project you can visit my website[website] or find me on twitter[twitter]
 
