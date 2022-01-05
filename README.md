@@ -8,7 +8,7 @@ To find out more about me and my project you can visit my [website] or find me o
 
 I primarily code in:  
 <p float="left">
-  [<img src="Rlogo.png" width="40" />]https://github.com/RishiDeKayne
+  <img src="Rlogo.png" width="40" />
   <img src="bashlogo.png" width="40" /> 
   <img src="pythonlogo.png" width="40" />
 </p>
