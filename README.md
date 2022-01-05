@@ -4,7 +4,7 @@
 -I have worked on a variety of organisms including: 🦈 🦠 🍄 🌴 🐟  
 -Among other things I currently work on the evolution of supergenes in 🦋  
 
-To find out more about me and my project you can visit my website[website] or find me on twitter[twitter]
+To find out more about me and my project you can visit my [website] or find me on [twitter]
 
 I primarily code in:  
 <p float="left">
