@@ -6,5 +6,5 @@
 
 To find out more about me and my project you can visit my website or find me on twitter
 
-I primarily code in:
-[‹ing align="left" alt-"Rlogo" width="26px" src-"./Rlogo.png" />]
+I primarily code in:  
+[‹ing align="left" alt-"Rlogo" width="26px" src="./Rlogo.png" />]
