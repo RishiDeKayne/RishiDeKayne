@@ -4,11 +4,14 @@
 -I have worked on a variety of organisms including: 🦈 🦠 🍄 🌴 🐟  
 -Amongst other things I currently work on the evolution of supergenes in 🦋  
 
-To find out more about me and my project you can visit my website or find me on twitter
+To find out more about me and my project you can visit my website[website] or find me on twitter[twitter]
 
 I primarily code in:  
 <p float="left">
-  <img src="Rlogo.png" width="25" />
-  <img src="bashlogo.png" width="25" /> 
-  <img src="pythonlogo.png" width="25" />
+  <img src="Rlogo.png" width="40" />
+  <img src="bashlogo.png" width="40" /> 
+  <img src="pythonlogo.png" width="40" />
 </p>
+
+[website]: http://rishidekayne.github.io/
+[twitter]: https://twitter.com/PhDetails
