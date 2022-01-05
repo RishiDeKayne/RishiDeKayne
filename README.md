@@ -7,4 +7,8 @@
 To find out more about me and my project you can visit my website or find me on twitter
 
 I primarily code in:  
-![Rlogo](Rlogo.png)
+<p float="left">
+  <img src="Rlogo.png" width="25" />
+  <img src="bashlogo.png" width="25" /> 
+  <img src="pythonlogo.png" width="25" />
+</p>
