@@ -1,4 +1,4 @@
-### Hi I'm Rishi - an independent postdoc working at the University of Edinburgh
+### Hi I'm Rishi - a postdoc working at the University of Edinburgh
 
 -I predominantly use genomics to understand the evolution and maintainence of biodiversity  
 -I have worked on a variety of organisms including: 🦈 🦠 🍄 🌴 🐟  
