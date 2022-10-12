@@ -1,6 +1,6 @@
 ### Hi I'm Rishi - a postdoc working at the University of Edinburgh
 
--I predominantly use genomics to understand the evolution and maintainence of biodiversity  
+-I predominantly use genomics to understand the evolution and maintainence of genome-wide variation  
 -I have worked on a variety of organisms including: 🦈 🦠 🍄 🌴 🐟  
 -Among other things I currently work on the evolution of supergenes in 🦋  
 
