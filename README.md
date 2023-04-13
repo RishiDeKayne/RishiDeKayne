@@ -2,7 +2,7 @@
 
 -I predominantly use genomics to understand the evolution and maintainence of genome-wide variation  
 -I have worked on a variety of organisms including: 🦈 🦠 🍄 🌴 🐟  
--Among other things I currently work on the evolution of supergenes in 🦋  
+-Among other things I currently work on the evolution of supergenes in 🦋 and the adaptation of poeciliid 🐟 to extreme environments
 
 To find out more about me and my project you can visit my [website] or find me on [twitter]
 
