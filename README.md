@@ -1,10 +1,10 @@
-### Hi I'm Rishi - a postdoc working at the University of California Berkeley
+### Hi I'm Rishi - Scientist at Arcadia Science
 
 -I predominantly use genomics to understand the evolution and maintainence of genome-wide variation  
 -I have worked on a variety of organisms including: 🦈 🦠 🍄 🌴 🐟 🐒  
 -Among other things I currently work on the evolution of structural variation and aging in 🐟 and 🐒 
 
-To find out more about me and my projects you can visit my [website] or find me on [twitter]
+To find out more about me and my projects you can visit my [website] or find me on [bluesky]
 
 I primarily code in:  
 <p float="left">
@@ -14,4 +14,4 @@ I primarily code in:
 </p>
 
 [website]: http://rishidekayne.github.io/
-[twitter]: https://twitter.com/PhDetails
+[bluesky]: https://bsky.app/profile/rishidekayne.bsky.social
