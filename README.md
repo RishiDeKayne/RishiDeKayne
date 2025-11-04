@@ -1,4 +1,4 @@
-### Hi I'm Rishi - Scientist at Arcadia Science
+### Hi I'm Rishi - a Scientist at Arcadia Science
 
 -I predominantly use genomics to understand the evolution and maintainence of genome-wide variation  
 -I have worked on a variety of organisms including: 🦈 🦠 🍄 🌴 🐟 🐒  
